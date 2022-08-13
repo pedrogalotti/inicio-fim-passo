@@ -1,0 +1,63 @@
+body{
+  margin:0;
+  background: rgb(62, 61, 61);
+}
+
+header{
+  color:aqua;
+}
+
+.r{
+  text-align:center;
+  margin-top:-3.2%;
+}
+
+.e{
+  margin-left:89%;
+  margin-top:-3%;
+}
+
+.i{
+  color:greenyellow;
+}
+
+.f{
+  color:greenyellow;
+}
+
+.p{
+  color:greenyellow;
+}
+
+.inicio{
+  border-radius: 8px;
+}
+
+.fim{
+  border-radius: 8px;
+}
+
+.passo{
+  border-radius: 8px;
+}
+
+.button{
+  border-radius: 8px;
+  margin-left:4%;
+}
+
+.button:hover{
+  background:aqua;
+  border: 3px solid greenyellow;
+}
+
+div#erros{
+  margin-left:86.5%;
+  margin-top:-5%;
+  color:red;
+}
+
+div#res{
+  text-align: center;
+  color:red;
+}
